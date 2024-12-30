@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+
+# Ignore session tokens
+session.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Docker build cache
+*.tar
+*.log
+
+# Ignore IDE settings (PyCharm specific)
+.idea/
+*.iml
